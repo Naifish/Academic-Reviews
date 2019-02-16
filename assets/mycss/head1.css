@@ -1,0 +1,23 @@
+.go-native #container #mLogo, .go-native #container #mobileHamburger, .go-native .icon-search, .go-native #mobileHeader, .go-native .mobileFooter, .go-native .mobileSearch {
+  display: none; }
+  .go-native #container.leaderboardAd {
+    padding-top: 0 !important; }
+  .go-native #mobileHeader {
+    height: 0;
+    position: initial; }
+  .go-native .cancelbtn {
+    display: none; }
+  .go-native .account_page.new_account {
+    display: block; }
+  .go-native .cta .reset-search-form, .go-native .search-by[data-search="profMenu"], .go-native .search-by[data-search="schoolMenu"] {
+    display: none; }
+  .go-native .home_index #gridContainer, .go-native .home_index #moreContent, .go-native .home_index #homeGrid #rateProfessorOption {
+    display: none; }
+  .go-native body.account_page {
+    display: none; }
+  .go-native .new_account .icon-search, .go-native .search_results .icon-search, .go-native .show_professor .icon-search, .go-native .show_school .icon-search, .go-native .new_account #mobileHeader, .go-native .search_results #mobileHeader, .go-native .show_professor #mobileHeader, .go-native .show_school #mobileHeader, .go-native .new_account .mobileSearch, .go-native .search_results .mobileSearch, .go-native .show_professor .mobileSearch, .go-native .show_school .mobileSearch {
+    display: block; }
+  .go-native .new_account .mobileSearch, .go-native .search_results .mobileSearch, .go-native .show_professor .mobileSearch, .go-native .show_school .mobileSearch {
+    top: 0; }
+  .go-native .new_account #container.leaderboardAd, .go-native .search_results #container.leaderboardAd, .go-native .show_professor #container.leaderboardAd, .go-native .show_school #container.leaderboardAd {
+    padding-top: 50px !important; }
